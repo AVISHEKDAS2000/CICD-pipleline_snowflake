@@ -1,5 +1,6 @@
-use schema demo;
+create schema ddemo;
 create table ftable(
   col1 int,
   col2 varchar
   );
+
