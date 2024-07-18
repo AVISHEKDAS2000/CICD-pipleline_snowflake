@@ -1,2 +1,1 @@
-use schema demo;
-create pipe p;
+create schema ddd;
